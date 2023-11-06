@@ -9,7 +9,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Pavan kalyan bakkani'
-                echo 'Bridr, eey'
+                echo 'B eey'
                 echo 'Brer, Ny'
                 echo 'Briy'
                 
