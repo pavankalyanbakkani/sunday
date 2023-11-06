@@ -10,7 +10,7 @@ pipeline {
             steps {
                 echo 'Pavan kalyan bakkani'
                 echo 'B eey'
-                echo 'Brer, Ny'
+                echo 'rer, Ny'
                 echo 'Briy'
                 
               
